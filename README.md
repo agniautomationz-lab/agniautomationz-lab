@@ -379,7 +379,7 @@ Weekly AI digest engine — extracts insights from databases and pipes formatted
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=ffb400&height=120&section=footer&reversal=true&animation=fadeIn&fontColor=080810" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb400&height=120&section=footer&reversal=false&animation=fadeIn&fontColor=080810" />
   <br>
-  <sub><b>Agni Automationz Lab © 2026 · Working Smarter, Not Harder ⚡ · Colombo, LK 🇱🇰</b></sub>
+  <sub><b>Agni Automationz Lab © 2026 · Igniting The Future Of Automation ⚡ · Colombo, LK 🇱🇰</b></sub>
 </div>
