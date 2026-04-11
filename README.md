@@ -512,7 +512,7 @@ Drop PDFs into a folder. LLM answers questions from your entire document library
   <sub><i>"The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency."</i></sub>
   <br><sub><b>— Bill Gates</b></sub>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=ffb400&height=120&section=footer&reversal=false&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb400&height=120&section=footer&reversal=false&animation=fadeIn" />
   <br>
   <sub><b>Agni Automationz Lab © 2026 · Working Smarter, Not Harder ⚡ · Colombo, LK 🇱🇰</b></sub>
 </div>
