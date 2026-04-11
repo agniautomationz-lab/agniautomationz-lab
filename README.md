@@ -23,7 +23,6 @@
 ![LLMs](https://img.shields.io/badge/10%2B-LLMs%20Integrated-ffb400?style=for-the-badge)
 ![Hours](https://img.shields.io/badge/%E2%88%9E-Hours%20Saved-c98900?style=for-the-badge)
 ![Agents](https://img.shields.io/badge/24%2F7-Agents%20Live-ffb400?style=for-the-badge)
-![Location](https://img.shields.io/badge/Colombo-LK%20%F0%9F%87%B1%F0%9F%87%B0-c98900?style=for-the-badge)
 
 </div>
 
