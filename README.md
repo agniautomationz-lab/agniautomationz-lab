@@ -44,7 +44,7 @@ mission          : "Democratize intelligent automation for every business"
 status           : "Always Building ⚡"
 ```
 
-## `// Core philosophy`
+## $\textsf{\color{#FFB400}// Core philosophy}$`
 
 > Human bandwidth is too valuable to spend on repetitive, mundane tasks.
 
