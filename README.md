@@ -27,7 +27,7 @@
 
 </div>
 
-## $\textsf{\color{#FFB400} Who we are}$
+## $\textsf{\color{#FFB400}Who we are}$
 
 ```yaml
 name             : Agni Automationz Lab
@@ -44,7 +44,7 @@ mission          : "Democratize intelligent automation for every business"
 status           : "Always Building ⚡"
 ```
 
-## $\textsf{\color{#FFB400} Core philosophy}$
+## $\textsf{\color{#FFB400}Core philosophy}$
 
 > Human bandwidth is too valuable to spend on repetitive, mundane tasks.
 
@@ -74,7 +74,7 @@ Inject LLMs for cognitive decisions, NLU, and dynamic generation at scale.
 </tr>
 </table>
 
-## $\textsf{\color{#FFB400} What we build}$
+## $\textsf{\color{#FFB400}What we build}$
 
 <table>
 <tr>
@@ -139,7 +139,7 @@ Craft precise system prompts, chains, and evaluations for production LLM apps.
 </tr>
 </table>
 
-## $\textsf{\color{#FFB400} Architecture pattern}$
+## $\textsf{\color{#FFB400}Architecture pattern}$
 
 ```mermaid
 graph TD
@@ -162,7 +162,7 @@ graph TD
     style D fill:#2a2a3a,stroke:#444,color:#888
 ```
 
-## $\textsf{\color{#FFB400} AI tools arsenal}$
+## $\textsf{\color{#FFB400}AI tools arsenal}$
 
 **🤖 Large Language Models**
 
@@ -261,7 +261,7 @@ graph TD
 ![Telegram](https://img.shields.io/badge/Telegram%20Bot-%232CA5E0.svg?style=flat-square&logo=telegram&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-%234285F4.svg?style=flat-square&logo=google&logoColor=white)
 
-## $\textsf{\color{#FFB400} Platform comparison}$
+## $\textsf{\color{#FFB400}Platform comparison}$
 
 | Platform | LLM Native | No-Code | Self-Host | RAG Support | Our Rating |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@ graph TD
 | **LangFlow** | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes | ⭐⭐⭐⭐☆ |
 | **Botpress** | ✅ Yes | ✅ Yes | ✅ Yes | ⚠️ Partial | ⭐⭐⭐⭐☆ |
 
-## $\textsf{\color{#FFB400} Expertise levels}$
+## $\textsf{\color{#FFB400}Expertise levels}$
 
 ```
 Make.com / n8n                  ████████████████████  98%
@@ -293,7 +293,7 @@ Supabase / PostgreSQL           ████████████████
 DSPy / AutoGen / Frameworks     ███████████████░░░░░  76%
 ```
 
-## $\textsf{\color{#FFB400} Lab stats}$
+## $\textsf{\color{#FFB400}Lab stats}$
 
 <div align="center">
 
@@ -307,7 +307,7 @@ DSPy / AutoGen / Frameworks     ███████████████░
 
 </div>
 
-## $\textsf{\color{#FFB400} Currently building}$
+## $\textsf{\color{#FFB400}Currently building}$
 
 | # | Project | Description | Stack | Status |
 |---|---------|-------------|-------|--------|
@@ -317,7 +317,7 @@ DSPy / AutoGen / Frameworks     ███████████████░
 | 📊 | **InsightPulse v2** | Multi-source AI digest with trend detection + anomaly alerts | Flowise + Dify + Slack | `🔵 PLANNING` |
 | 🏠 | **Local AI Workspace** | Ollama + AnythingLLM + n8n for privacy-first automation | Ollama + Open WebUI + n8n | `🔵 PLANNING` |
 
-## $\textsf{\color{#FFB400} Featured projects}$
+## $\textsf{\color{#FFB400}Featured projects}$
 
 <table>
 <tr>
@@ -392,7 +392,7 @@ Drop PDFs into a folder. LLM answers questions from your entire document library
 </tr>
 </table>
 
-## $\textsf{\color{#FFB400} Latest publications}$
+## $\textsf{\color{#FFB400}Latest publications}$
 
 | # | Title | Category |
 |---|-------|----------|
@@ -405,7 +405,7 @@ Drop PDFs into a folder. LLM answers questions from your entire document library
 | 📄 | [The Ultimate Prompt Engineering Cheatsheet for 2025](#) | `Reference` |
 | 📄 | [Vector DB Showdown: Pinecone vs Qdrant vs Chroma](#) | `Comparison` |
 
-## $\textsf{\color{#FFB400} What clients say}$
+## $\textsf{\color{#FFB400}What clients say}$
 
 <table>
 <tr>
@@ -442,7 +442,7 @@ Drop PDFs into a folder. LLM answers questions from your entire document library
 </tr>
 </table>
 
-## $\textsf{\color{#FFB400} Analytics}$
+## $\textsf{\color{#FFB400}Analytics}$
 
 <div align="center">
 
@@ -465,7 +465,7 @@ Drop PDFs into a folder. LLM answers questions from your entire document library
 
 </div>
 
-## $\textsf{\color{#FFB400} Contribution snake}$
+## $\textsf{\color{#FFB400}Contribution snake}$
 
 <div align="center">
   <picture>
@@ -477,7 +477,7 @@ Drop PDFs into a folder. LLM answers questions from your entire document library
 
 > ⚙️ Activate via [Platane/snk GitHub Action](https://github.com/Platane/snk)
 
-## $\textsf{\color{#FFB400} Let's connect}$
+## $\textsf{\color{#FFB400}Let's connect}$
 
 <div align="center">
 
