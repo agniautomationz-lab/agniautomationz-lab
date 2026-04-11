@@ -27,9 +27,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-## `// Who we are`
+## $\textsf{\color{#FFB400}// Who we are}$
 
 ```yaml
 name             : Agni Automationz Lab
@@ -45,8 +43,6 @@ local_llm        : ["Ollama", "LM Studio", "AnythingLLM", "Open WebUI"]
 mission          : "Democratize intelligent automation for every business"
 status           : "Always Building ⚡"
 ```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## `// Core philosophy`
 
@@ -77,8 +73,6 @@ Inject LLMs for cognitive decisions, NLU, and dynamic generation at scale.
 </td>
 </tr>
 </table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## `// What we build`
 
@@ -145,8 +139,6 @@ Craft precise system prompts, chains, and evaluations for production LLM apps.
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
 ## `// Architecture pattern`
 
 ```mermaid
@@ -169,8 +161,6 @@ graph TD
     style K fill:#1a6b1a,stroke:#0f4a0f,color:#fff
     style D fill:#2a2a3a,stroke:#444,color:#888
 ```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## `// AI tools arsenal`
 
@@ -271,8 +261,6 @@ graph TD
 ![Telegram](https://img.shields.io/badge/Telegram%20Bot-%232CA5E0.svg?style=flat-square&logo=telegram&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-%234285F4.svg?style=flat-square&logo=google&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
 ## `// Platform comparison`
 
 | Platform | LLM Native | No-Code | Self-Host | RAG Support | Our Rating |
@@ -285,8 +273,6 @@ graph TD
 | **Zapier** | ⚠️ Partial | ✅ Yes | ❌ No | ❌ No | ⭐⭐⭐☆☆ |
 | **LangFlow** | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes | ⭐⭐⭐⭐☆ |
 | **Botpress** | ✅ Yes | ✅ Yes | ✅ Yes | ⚠️ Partial | ⭐⭐⭐⭐☆ |
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## `// Expertise levels`
 
@@ -307,8 +293,6 @@ Supabase / PostgreSQL           ████████████████
 DSPy / AutoGen / Frameworks     ███████████████░░░░░  76%
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
 ## `// Lab stats`
 
 <div align="center">
@@ -323,8 +307,6 @@ DSPy / AutoGen / Frameworks     ███████████████░
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
 ## `// Currently building`
 
 | # | Project | Description | Stack | Status |
@@ -334,8 +316,6 @@ DSPy / AutoGen / Frameworks     ███████████████░
 | 🔮 | **Multi-Agent Orchestrator** | CrewAI research → draft → review chain with human-in-loop | CrewAI + LangChain + Claude | `🟡 IN PROGRESS` |
 | 📊 | **InsightPulse v2** | Multi-source AI digest with trend detection + anomaly alerts | Flowise + Dify + Slack | `🔵 PLANNING` |
 | 🏠 | **Local AI Workspace** | Ollama + AnythingLLM + n8n for privacy-first automation | Ollama + Open WebUI + n8n | `🔵 PLANNING` |
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## `// Featured projects`
 
@@ -412,8 +392,6 @@ Drop PDFs into a folder. LLM answers questions from your entire document library
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
 ## `// Latest publications`
 
 | # | Title | Category |
@@ -426,8 +404,6 @@ Drop PDFs into a folder. LLM answers questions from your entire document library
 | 📄 | [Run Any LLM Locally for Free with Ollama + Open WebUI](#) | `Tutorial` |
 | 📄 | [The Ultimate Prompt Engineering Cheatsheet for 2025](#) | `Reference` |
 | 📄 | [Vector DB Showdown: Pinecone vs Qdrant vs Chroma](#) | `Comparison` |
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## `// What clients say`
 
@@ -466,8 +442,6 @@ Drop PDFs into a folder. LLM answers questions from your entire document library
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
 ## `// Analytics`
 
 <div align="center">
@@ -491,8 +465,6 @@ Drop PDFs into a folder. LLM answers questions from your entire document library
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
 ## `// Contribution snake`
 
 <div align="center">
@@ -504,8 +476,6 @@ Drop PDFs into a folder. LLM answers questions from your entire document library
 </div>
 
 > ⚙️ Activate via [Platane/snk GitHub Action](https://github.com/Platane/snk)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## `// Let's connect`
 
@@ -537,14 +507,12 @@ Drop PDFs into a folder. LLM answers questions from your entire document library
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
 <div align="center">
   <br>
   <sub><i>"The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency."</i></sub>
   <br><sub><b>— Bill Gates</b></sub>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb400&height=100&section=footer&reversal=false&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=ffb400&height=120&section=footer&reversal=false&animation=fadeIn" />
   <br>
-  <sub><b>Agni Automationz Lab © 2026 · Igniting The Future of Automation ⚡ · Colombo, LK 🇱🇰</b></sub>
+  <sub><b>Agni Automationz Lab © 2026 · Working Smarter, Not Harder ⚡ · Colombo, LK 🇱🇰</b></sub>
 </div>
