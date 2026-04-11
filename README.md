@@ -27,9 +27,7 @@
 
 </div>
 
-<h2 align="left">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=FFB400&height=50&section=header&text=//%20Who%20we%20are&fontSize=32&fontAlign=10&fontAlignY=60" />
-</h2>
+## $\textsf{\color{#FFB400}// Who we are}$
 
 ```yaml
 name             : Agni Automationz Lab
